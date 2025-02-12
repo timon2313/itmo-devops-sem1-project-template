@@ -13,7 +13,7 @@ REST API сервис для загрузки и выгрузки данных �
 
 1. Создание базы данных:
    ```bash
-   psql -U validator -d postgres -c "CREATE DATABASE project_sem_1;"
+   psql -U validator -d postgres -c "CREATE DATABASE project_sem_1";
    ```
 2. Установка зависимостей и подготовка БД:
    ```bash
