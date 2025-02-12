@@ -6,12 +6,12 @@ REST API сервис для загрузки и выгрузки данных �
 
 - **ОС**: Windows, Linux, MacOS
 - **Go**: 1.20 и выше
-- **PostgreSQL**: 13 и выеш
+- **PostgreSQL**: 13 и выше
 - **Кампуктер**: 2 ядра, 2 гига, игровая видеокарта
 
 ## Установка и запуск
 
-1. Создать базу данных:
+1. Создание базы данных:
    ```bash
    psql -U validator -d postgres -c "CREATE DATABASE project_sem_1;"
    ```
